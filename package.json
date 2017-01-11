@@ -1,8 +1,8 @@
 {
-  "name": "isemail",
-  "description": "Validate an email address according to RFCs 5321, 5322, and others",
-  "version": "2.1.2",
-  "repository": "git://github.com/hapijs/isemail",
+  "name": "isemail-browser",
+  "description": "Validate an email address according to RFCs 5321, 5322, and others + works on browsers",
+  "version": "3.0.0",
+  "repository": "git@github.com:sigfox/isemail.git",
   "main": "lib/index.js",
   "keywords": [
     "isemail",
