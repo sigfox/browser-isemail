@@ -2,7 +2,7 @@
 
 Node email address validation library
 
-[![Build Status](https://travis-ci.org/hapijs/isemail.png)](https://travis-ci.org/hapijs/isemail)<a href="#footnote-1"><sup>&#91;1&#93;</sup></a>
+[![Build Status](https://travis-ci.org/hapijs/isemail.png)](https://travis-ci.org/hapijs/isemail) [![Greenkeeper badge](https://badges.greenkeeper.io/sigfox/isemail-browser.svg)](https://greenkeeper.io/)<a href="#footnote-1"><sup>&#91;1&#93;</sup></a>
 
 Lead Maintainer: [Eli Skeggs][skeggse]
 
